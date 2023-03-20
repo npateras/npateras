@@ -119,9 +119,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> Everybody stay calm! Stay f*&#!#% calm!
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
