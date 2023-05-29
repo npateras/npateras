@@ -67,7 +67,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-_Joke requested from [Jokes API](https://readme-jokes.vercel.app/api)_
+_Generated from [Jokes API](https://readme-jokes.vercel.app/api)_
 
 ---
 
