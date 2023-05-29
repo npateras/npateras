@@ -117,11 +117,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about a Witcher quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
->
-> <p>- Gabe Lewis</p>
+![Jokes Card](https://gist.github.com/katerinell/8c07483d2e4f263da37811cd826055a9)
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
