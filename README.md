@@ -119,7 +119,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about a Witcher quote before you go?
 
-![Jokes Card](https://gist.github.com/katerinell/8c07483d2e4f263da37811cd826055a9)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
