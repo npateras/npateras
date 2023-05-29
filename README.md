@@ -16,33 +16,6 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/IHateSyntaxErrors/eMarket">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ihatesyntaxerrors&repo=emarket&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/IHateSyntaxErrors/eFruit">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ihatesyntaxerrors&repo=e-fruit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/TORPILES/Cyprus-Traveler">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=torpiles&repo=cyprus-traveler&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/TORPILES/Movie-Tickets">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=torpiles&repo=movietickets&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
