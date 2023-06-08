@@ -4,9 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=#1CB5E0&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer,;Studied+Computer+Science,;Active+Learner/Researcher,;Love+to+learn+new+things!+<3"></a>
 </p>
 
-
-<br>
-
 <a href="https://www.linkedin.com/in/nikolas-pateras/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
@@ -21,6 +18,7 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 ## &#x1f4c8; GitHub Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=IHateSyntaxErrors&theme=dracula"/></p>
 
+<details>
 <summary>More Stats</summary>
 <a href="https://github.com/IHateSyntaxErrors">
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -30,11 +28,7 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nikolas's GitHub Stats" />
 </a>
 
-<br>
-<br>
-
 ## 💼 Skills
-
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
@@ -46,11 +40,8 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 
 <details>
 <summary>More Skills</summary>
-<br>
-
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
-<br>
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
