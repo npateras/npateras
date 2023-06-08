@@ -8,11 +8,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
 
-![Profile Views](https://gpvc.arturio.dev/IHateSyntaxErrors)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikolas-pateras)
-
 Hey there 👋
-
 I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer who specializes in Front-End but also Backend development. I make it my mission to make perfect UIs on my apps and write code that will run blazing fast.
 
 ## &#x1f4c8; GitHub Stats
@@ -27,6 +23,7 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 <a href="https://github.com/IHateSyntaxErrors">
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nikolas's GitHub Stats" />
 </a>
+</details>
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
