@@ -14,8 +14,6 @@ Hey there 👋
 
 I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer who specializes in Front-End but also Backend development. I make it my mission to make perfect UIs on my apps and write code that will run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
