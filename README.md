@@ -12,26 +12,22 @@ Hey there 👋
 
 I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer who specializes in Front-End but also Backend development. I make it my mission to make perfect UIs on my apps and write code that will run blazing fast.
 
-## &#x1f4c8; GitHub Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=IHateSyntaxErrors&theme=react"/></p>
+### &#x1f4c8; GitHub Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IHateSyntaxErrors&theme=react"/></p>
 
 <details>
 <summary>More Stats</summary>
   <br />
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&theme=react&show_icons=true&include_all_commits=true&count_private=true&custom_title=Stats)
-         
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&langs_count=7&theme=react&layout=compact&hide=asp.net,html,css,shaderlab,hlsl,ruby)](https://github.com/IHateSyntaxErrors/github-readme-stats)
+  <a href="https://github.com/IHateSyntaxErrors">
+    <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&theme=react" alt="Nikolas's Top Languages" />
+  </a>
 
-<a href="https://github.com/IHateSyntaxErrors">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&theme=react" alt="Nikolas's Top Languages" />
-</a>
-
-<a href="https://github.com/IHateSyntaxErrors">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&theme=react" alt="Nikolas's GitHub Stats" />
-</a>
+  <a href="https://github.com/IHateSyntaxErrors">
+    <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&theme=react" alt="Nikolas's GitHub Stats" />
+  </a>
 </details>
 
-## 💼 Skills
+### 💼 Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
