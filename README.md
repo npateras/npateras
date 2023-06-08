@@ -1,11 +1,15 @@
 <h1 align="center"><b>Hi , I'm Nikolas Pateras </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer,;Studied+Computer+Science,;Active+Learner/Researcher,;Love+to+learn+new+things!+<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=#1CB5E0&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer,;Studied+Computer+Science,;Active+Learner/Researcher,;Love+to+learn+new+things!+<3"></a>
 </p>
 
 
 <br>
+
+<a href="https://www.linkedin.com/in/nikolas-pateras/">
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+</a>
 
 ![Profile Views](https://gpvc.arturio.dev/IHateSyntaxErrors)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikolas-pateras)
@@ -15,15 +19,15 @@ Hey there 👋
 I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer who specializes in Front-End but also Backend development. I make it my mission to make perfect UIs on my apps and write code that will run blazing fast.
 
 ## &#x1f4c8; GitHub Stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=IHateSyntaxErrors&theme=dracula"/></p>
 
-<br>
-
+<summary>More Stats</summary>
 <a href="https://github.com/IHateSyntaxErrors">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/IHateSyntaxErrors">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nikolas's GitHub Stats" />
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nikolas's GitHub Stats" />
 </a>
 
 <br>
