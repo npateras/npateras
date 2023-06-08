@@ -17,16 +17,17 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 
 <details>
 <summary>More Stats</summary>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&theme=react&show_icons=true&include_all_commits=true&count_private=true&custom_title=Stats)
+  <br />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&theme=react&show_icons=true&include_all_commits=true&count_private=true&custom_title=Stats)
          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&langs_count=7&theme=react&layout=compact&hide=asp.net,html,css,shaderlab,hlsl,ruby)](https://github.com/zartilas/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&langs_count=7&theme=react&layout=compact&hide=asp.net,html,css,shaderlab,hlsl,ruby)](https://github.com/IHateSyntaxErrors/github-readme-stats)
 
 <a href="https://github.com/IHateSyntaxErrors">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&theme=react" alt="Nikolas's Top Languages" />
 </a>
 
 <a href="https://github.com/IHateSyntaxErrors">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nikolas's GitHub Stats" />
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&theme=react" alt="Nikolas's GitHub Stats" />
 </a>
 </details>
 
