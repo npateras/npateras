@@ -97,6 +97,7 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 </table>
 
 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 <details>
   <summary>More Skills</summary>
   <br/>
