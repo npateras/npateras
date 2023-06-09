@@ -14,7 +14,7 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 
 
 ### &#x1f4c8; GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IHateSyntaxErrors&theme=react"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IHateSyntaxErrors&theme=react"/></p>
 
 <details>
 <summary>More Stats</summary>
