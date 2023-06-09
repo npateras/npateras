@@ -6,15 +6,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1CB5E0&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer,;Studied+Computer+Science,;Active+Learner/Researcher,;Love+to+learn+new+things!+<3"></a>
 </p>
 
-[![StackOverflow Link](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white)](https://stackoverflow.com/users/9004679/i-hate-syntax-errors)
-
-<a href="https://www.linkedin.com/in/nikolas-pateras/">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
-</a>
-
-<a href="[https://www.linkedin.com/in/nikolas-pateras/](https://stackoverflow.com/users/9004679/i-hate-syntax-errors)">
-    <img src="https://img.shields.io/badge/STACKOVERFLOW-12100E?logo=stackoverflow&color=2bc6da&logoColor=white" />
-</a>
+[![LinkedIn Link](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white)]([https://stackoverflow.com/users/9004679/i-hate-syntax-errors](https://www.linkedin.com/in/nikolas-pateras/))
+[![StackOverflow Link](https://img.shields.io/badge/STACKOVERFLOW-12100E?logo=stackoverflo&color=2bc6da&logoColor=white)](https://stackoverflow.com/users/9004679/i-hate-syntax-errors)
 
 <br/>
 <br/>
