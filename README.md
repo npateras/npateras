@@ -13,18 +13,19 @@ Hey there 👋
 I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer who specializes in Front-End but also Backend development. I make it my mission to make perfect UIs on my apps and write code that will run blazing fast.
 
 
-### &#x1f4c8; GitHub Stats
+### 📈 GitHub Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IHateSyntaxErrors&theme=react"/></p>
 
 <details>
-<summary>More Stats</summary>
-  <br />
+  <summary>More Stats</summary>
+  <br/>
+  
   <a href="https://github.com/IHateSyntaxErrors">
-    <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&theme=react" alt="Nikolas's Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&layout=compact&theme=react" alt="Nikolas's Top Languages" />
   </a>
 
   <a href="https://github.com/IHateSyntaxErrors">
-    <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&theme=react" alt="Nikolas's GitHub Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&theme=react" alt="Nikolas's GitHub Stats" />
   </a>
 </details>
 
@@ -38,20 +39,18 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
+
 <details>
-<summary>More Skills</summary>
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-
+  <summary>More Skills</summary>
+  ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 </details>
 
 <br>
