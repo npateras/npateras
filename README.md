@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/nikolas-pateras/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
+<br/>
+<br/>
 
 Hey there 👋
 
