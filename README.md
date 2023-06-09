@@ -23,11 +23,11 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
   <br/>
   
   <a href="https://github.com/IHateSyntaxErrors">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&layout=compact&theme=react" alt="Nikolas's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&layout=compact&theme=react" alt="Nikolas's Top Languages" />
   </a>
 
   <a href="https://github.com/IHateSyntaxErrors">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&theme=react" alt="Nikolas's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&theme=react" alt="Nikolas's GitHub Stats" />
   </a>
 </details>
 
@@ -59,7 +59,7 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 
 ## 📣 How about an amazing joke before you go?
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
 _Generated from [Jokes API](https://readme-jokes.vercel.app/api)_
 
