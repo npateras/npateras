@@ -7,7 +7,7 @@
 </p>
 
 [![LinkedIn Link](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white)]([https://stackoverflow.com/users/9004679/i-hate-syntax-errors](https://www.linkedin.com/in/nikolas-pateras/))
-[![StackOverflow Link](https://img.shields.io/badge/STACKOVERFLOW-12100E?logo=stackoverflo&color=2bc6da&logoColor=white)](https://stackoverflow.com/users/9004679/i-hate-syntax-errors)
+[![StackOverflow Link](https://img.shields.io/badge/STACKOVERFLOW-12100E?logo=stackoverflow&color=2bc6da&logoColor=white)](https://stackoverflow.com/users/9004679/i-hate-syntax-errors)
 
 <br/>
 <br/>
