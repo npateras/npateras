@@ -22,11 +22,11 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
   <summary>More Stats</summary>
   <br/>
   
-  <a href="https://github.com/IHateSyntaxErrors">
+  <a align="left" href="https://github.com/IHateSyntaxErrors">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&layout=compact&theme=react" alt="Nikolas's Top Languages" />
   </a>
 
-  <a href="https://github.com/IHateSyntaxErrors">
+  <a align="left" href="https://github.com/IHateSyntaxErrors">
     <img src="https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&line_height=27&count_private=true&theme=react" alt="Nikolas's GitHub Stats" />
   </a>
 </details>
