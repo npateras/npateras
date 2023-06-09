@@ -1,3 +1,5 @@
+![Banner Image](https://github.com/IHateSyntaxErrors/IHateSyntaxErrors/blob/main/LinkedInBanner.jpg?raw=true)
+
 <h1 align="center"><b>Hi, I'm Nikolas Pateras </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
