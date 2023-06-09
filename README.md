@@ -55,7 +55,7 @@ I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer 
 
 ## 📣 How about an amazing joke before you go?
 
-![Jokes Card](https://readme-jokes.vercel.app/api&theme=react&hide_border=true)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
 _Generated from [Jokes API](https://readme-jokes.vercel.app/api)_
 
