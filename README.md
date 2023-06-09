@@ -9,6 +9,11 @@
 <a href="https://www.linkedin.com/in/nikolas-pateras/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
+
+<a href="[https://www.linkedin.com/in/nikolas-pateras/](https://stackoverflow.com/users/9004679/i-hate-syntax-errors)">
+    <img src="https://img.shields.io/badge/STACKOVERFLOW-12100E?logo=stackoverflow&color=2bc6da&logoColor=white" />
+</a>
+
 <br/>
 <br/>
 
