@@ -12,8 +12,6 @@
 <br/>
 <br/>
 
-Hey there 👋
-
 Accomplished software developer with a two-year track record specializing in Android development using Kotlin. Skilled in creating innovative applications, designing intuitive UI/UX experiences, and optimizing code for improved task efficiency within the team. Prioritizing the production of high-quality code ensures enhanced performance, readability, and streamlined future updates to the program.
 
 
