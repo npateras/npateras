@@ -103,8 +103,8 @@ Accomplished software developer with a two-year track record specializing in And
   ![C++](https://img.shields.io/badge/C++-007ACC?style=flat&logo=cplusplus&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-007ACC?style=flat&logo=microsoftsqlserver&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007ACC?style=flat&logo=postgresql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Bootstrap-007ACC?style=flat&logo=bootstrap&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/PostgreSQL-007ACC?style=flat&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat&logo=firebase&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-007ACC?style=flat&logo=bootstrap&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-007ACC?style=flat&logo=nodedotjs&logoColor=white)
   ![UML](https://img.shields.io/badge/UML-007ACC?style=flat&logo=uml&logoColor=white)
   
