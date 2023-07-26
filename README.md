@@ -14,7 +14,7 @@
 
 Hey there 👋
 
-I’m Nikolas, a Software Engineer, creative coder and self-proclaimed designer who specializes in Front-End but also Backend development. I make it my mission to make perfect UIs on my apps and write code that will run blazing fast.
+Accomplished software developer with a two-year track record specializing in Android development using Kotlin. Skilled in creating innovative applications, designing intuitive UI/UX experiences, and optimizing code for improved task efficiency within the team. Prioritizing the production of high-quality code ensures enhanced performance, readability, and streamlined future updates to the program.
 
 
 ### 📈 GitHub Stats
