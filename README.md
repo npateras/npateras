@@ -99,6 +99,7 @@ Accomplished software developer with a two-year track record specializing in And
   <br/>
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/.net-007ACC?style=flat&logo=typescript&logoColor=white)
   
 </details>
 
