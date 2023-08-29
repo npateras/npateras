@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/IHateSyntaxErrors/IHateSyntaxErrors/blob/main/NPBanner3.png?raw=true)
+![Banner Image](https://github.com/npateras/npateras/blob/main/NPBanner3.png?raw=true)
 
 <h1 align="center"><b>Hi, I'm Nikolas Pateras </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -16,15 +16,15 @@ Accomplished software developer with a two-year track record specializing in And
 
 
 ### 📈 GitHub Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=IHateSyntaxErrors&theme=react"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=npateras&theme=react"/></p>
 
 <details>
   <summary>More Stats</summary>
   <br/>
   
-  ![Nikolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IHateSyntaxErrors&show_icons=true&count_private=true&theme=react&include_all_commits=true)
+  ![Nikolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=npateras&show_icons=true&count_private=true&theme=react&include_all_commits=true)
          
-  ![Nikolas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IHateSyntaxErrors&hide=html&layout=compact&theme=react)
+  ![Nikolas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npateras&hide=html&layout=compact&theme=react)
 </details>
 
 
