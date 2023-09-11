@@ -16,7 +16,7 @@ Accomplished software developer, specializing in Android development using Kotli
 
 
 ### 📈 GitHub Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=npateras&theme=react"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=npateras&theme=react&show_icons=true"/></p>
 
 <details>
   <summary>More Stats</summary>
